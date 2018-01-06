@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="blue">#187bf4</color>
+    <color name="blue_dark">#4663f3</color>
+    <color name="blue_light">#187bf4</color>
+    <color name="blue_light_little">#7fb4f4</color>
+
+    <color name="orange">#FFC107</color>
+    <color name="green">#259B24</color>
+    <color name="purple">#9C27B0</color>
+
+<!--    <color name="blue">#03A9F4</color>-->
+    <color name="white">#FFFFFF</color>
+    <color name="lime">#CDDC39</color>
+
+<!-- custom dialog  -->
+    <color name="bg_white">#FFFFFF</color>
+    <color name="bbutton_danger">#ffd9534f</color>
+    <color name="bbutton_danger_edge">#ffd43f3a</color>
+    <color name="bbutton_danger_pressed">#ffd2322d</color>
+    <color name="bbutton_danger_pressed_edge">#ffac2925</color>
+    <color name="bbutton_danger_disabled">#a5d9534f</color>
+    <color name="bbutton_danger_disabled_edge">#a5d43f3a</color>
+
+    <color name="bbutton_info">#ff5bc0de</color>
+    <color name="bbutton_info_edge">#ff46b8da</color>
+    <color name="bbutton_info_pressed">#ff39b3d7</color>
+    <color name="bbutton_info_pressed_edge">#ff269abc</color>
+    <color name="bbutton_info_disabled">#a55bc0de</color>
+    <color name="bbutton_info_disabled_edge">#a546b8da</color>
+
+    <!--  progrecc dialog backgroud color -->
+    <color name="dialog_progress_bg_color">#505050</color>
+
+
+</resources>

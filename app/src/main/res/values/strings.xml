@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GLOWallet</string>
+
+
+    <string name="tab_one">Home</string>
+    <string name="tab_two">Transaction</string>
+    <string name="tab_three">Me</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

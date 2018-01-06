@@ -1,0 +1,32 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ghl.wuhan.glowallet.home.HomeFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- Home Fragment title -->
+        <TextView
+            android:id="@+id/tv_title_transaction"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@color/blue"
+            android:gravity="center"
+            android:text="Transaction"
+            android:textSize="25sp"
+            android:textColor="@color/white"
+            />
+
+        <!-- TODO: Update blank fragment layout -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/tv_title_home"
+            />
+
+    </RelativeLayout>
+
+</FrameLayout>
